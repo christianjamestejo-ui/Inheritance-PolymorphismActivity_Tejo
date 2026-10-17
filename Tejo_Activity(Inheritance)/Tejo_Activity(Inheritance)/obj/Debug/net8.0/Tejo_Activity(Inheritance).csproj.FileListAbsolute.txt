@@ -1,0 +1,14 @@
+/Users/cjustine.tejo/Desktop/TEJOC#/Tejo_Activity(Inheritance)/Tejo_Activity(Inheritance)/obj/Debug/net8.0/Tejo_Activity(Inheritance).GeneratedMSBuildEditorConfig.editorconfig
+/Users/cjustine.tejo/Desktop/TEJOC#/Tejo_Activity(Inheritance)/Tejo_Activity(Inheritance)/obj/Debug/net8.0/Tejo_Activity(Inheritance).AssemblyInfoInputs.cache
+/Users/cjustine.tejo/Desktop/TEJOC#/Tejo_Activity(Inheritance)/Tejo_Activity(Inheritance)/obj/Debug/net8.0/Tejo_Activity(Inheritance).AssemblyInfo.cs
+/Users/cjustine.tejo/Desktop/TEJOC#/Tejo_Activity(Inheritance)/Tejo_Activity(Inheritance)/obj/Debug/net8.0/Tejo_Activity(Inheritance).csproj.CoreCompileInputs.cache
+/Users/cjustine.tejo/Desktop/TEJOC#/Tejo_Activity(Inheritance)/Tejo_Activity(Inheritance)/bin/Debug/net8.0/Tejo_Activity(Inheritance)
+/Users/cjustine.tejo/Desktop/TEJOC#/Tejo_Activity(Inheritance)/Tejo_Activity(Inheritance)/bin/Debug/net8.0/Tejo_Activity(Inheritance).deps.json
+/Users/cjustine.tejo/Desktop/TEJOC#/Tejo_Activity(Inheritance)/Tejo_Activity(Inheritance)/bin/Debug/net8.0/Tejo_Activity(Inheritance).runtimeconfig.json
+/Users/cjustine.tejo/Desktop/TEJOC#/Tejo_Activity(Inheritance)/Tejo_Activity(Inheritance)/bin/Debug/net8.0/Tejo_Activity(Inheritance).dll
+/Users/cjustine.tejo/Desktop/TEJOC#/Tejo_Activity(Inheritance)/Tejo_Activity(Inheritance)/bin/Debug/net8.0/Tejo_Activity(Inheritance).pdb
+/Users/cjustine.tejo/Desktop/TEJOC#/Tejo_Activity(Inheritance)/Tejo_Activity(Inheritance)/obj/Debug/net8.0/Tejo_Activity(Inheritance).dll
+/Users/cjustine.tejo/Desktop/TEJOC#/Tejo_Activity(Inheritance)/Tejo_Activity(Inheritance)/obj/Debug/net8.0/refint/Tejo_Activity(Inheritance).dll
+/Users/cjustine.tejo/Desktop/TEJOC#/Tejo_Activity(Inheritance)/Tejo_Activity(Inheritance)/obj/Debug/net8.0/Tejo_Activity(Inheritance).pdb
+/Users/cjustine.tejo/Desktop/TEJOC#/Tejo_Activity(Inheritance)/Tejo_Activity(Inheritance)/obj/Debug/net8.0/Tejo_Activity(Inheritance).genruntimeconfig.cache
+/Users/cjustine.tejo/Desktop/TEJOC#/Tejo_Activity(Inheritance)/Tejo_Activity(Inheritance)/obj/Debug/net8.0/ref/Tejo_Activity(Inheritance).dll
